@@ -33,11 +33,11 @@ public class nikitha_and_books {
             if (ok) {
                 long last = a[n - 1] + extra;
                 if (last > prev)
-                    System.out.println("YES - nikitha_and_books.java:36");
+                    System.out.println("YES");
                 else
-                    System.out.println("NO - nikitha_and_books.java:38");
+                    System.out.println("NO");
             } else {
-                System.out.println("NO - nikitha_and_books.java:40");
+                System.out.println("NO");
             }
         }
     }
